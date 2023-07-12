@@ -1,4 +1,4 @@
-# Dilip-s-Cursors
+# Dilip's-Cursors
 Windows Cursor Theme Using GIMP
 
 This is a simple Windows Cursor theme built using GIMP 2.99.16 released yesterday. 
