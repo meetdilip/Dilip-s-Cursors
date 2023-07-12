@@ -9,4 +9,4 @@ Built 100% using GIMP 2.99.16. All .cur and .ani files were drawn and exported u
 
 ![demo](https://github.com/meetdilip/Dilip-s-Cursors/blob/main/Dilip's%20demo.png?raw=true)
 
-I prepared the pack in less than 4 hours. It is more of demo of GIMP's abilities than a very beautiful cursor theme.
+I prepared the pack in less than 4 hours. It is more of a demo of GIMP's abilities than a very beautiful cursor theme.
